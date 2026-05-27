@@ -38,3 +38,5 @@ orjson>=3.9.0
 
 # Typing support 
 pydantic>=2.5.0
+
+streamlit>=1.35.0
